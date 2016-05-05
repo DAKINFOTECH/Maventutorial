@@ -1,2 +1,2 @@
 # Tutorials
-Contains the document to learn.
+Contain documents to learn.
