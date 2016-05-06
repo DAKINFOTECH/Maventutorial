@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="14027" started-at="2016-05-04T16:33:35Z" finished-at="2016-05-04T16:33:49Z">
+  <suite name="Suite" duration-ms="15791" started-at="2016-05-06T06:55:44Z" finished-at="2016-05-06T06:55:59Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="14027" started-at="2016-05-04T16:33:35Z" finished-at="2016-05-04T16:33:49Z">
+    <test name="Test" duration-ms="15791" started-at="2016-05-06T06:55:44Z" finished-at="2016-05-06T06:55:59Z">
+      <class name="com.dakinfotech.maventutorialtutor.Listtest">
+        <test-method status="PASS" signature="listfunc()[pri:0, instance:com.dakinfotech.maventutorialtutor.Listtest@2eee9593]" name="listfunc" duration-ms="6" started-at="2016-05-06T12:25:59Z" finished-at="2016-05-06T12:25:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listfunc -->
+      </class> <!-- com.dakinfotech.maventutorialtutor.Listtest -->
       <class name="com.dakinfotech.maventutorialtutor.TutorialsPoint">
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.dakinfotech.maventutorialtutor.TutorialsPoint@61443d8f]" name="test1" duration-ms="14005" started-at="2016-05-04T22:03:35Z" finished-at="2016-05-04T22:03:49Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.dakinfotech.maventutorialtutor.TutorialsPoint@445b84c0]" name="test1" duration-ms="15766" started-at="2016-05-06T12:25:44Z" finished-at="2016-05-06T12:25:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
