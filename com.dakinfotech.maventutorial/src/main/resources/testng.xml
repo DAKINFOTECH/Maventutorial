@@ -5,8 +5,7 @@
     <classes>
       <class name="com.dakinfotech.maventutorialtutor.TutorialsPoint"/>
       <class name="com.dakinfotech.maventutorialtutor.Listtest"/>
-      <class name="com.dakinfotech.maventutorialtutor.FlightBooking"/>
-      
+      <class name="com.dakinfotech.maventutorialtutor.FlightBooking"/>      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
